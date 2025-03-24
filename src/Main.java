@@ -25,6 +25,7 @@ public class Main {
                 a++;
             }
         } else if (args.length == 3) { //проверить три числа
+            int x=0;
             int a = Integer.parseInt(args[0]);
             int b = Integer.parseInt(args[1]);
             int c = Integer.parseInt(args[2]);
